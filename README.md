@@ -12,21 +12,21 @@ Multi-target Optimization: Generates optimal routes to visit multiple locations 
 ROS2 Humble <br>
 Ubuntu 22.04
 
-## How to use
+# How to use
 
-# Create workspace
+## Create workspace
 mkdir -p ~/ros2_ws/src <br>
 cd ~/ros2_ws/src
 
-# Clone the package
+## Clone the package
 git clone https://github.com/your-username/multi-story-pathplanner.git
 
-# Install dependencies
+## Install dependencies
 cd ~/ros2_ws
 rosdep install --from-paths src --ignore-src -r -y
 
-# Build
+## Build
 colcon build --packages-select multi_story_pathplanner
 
-# Source the workspace
+## Source the workspace
 source install/setup.bash
