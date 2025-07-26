@@ -4,3 +4,8 @@
 
 Multi-story Support: Path planning across multiple building floors <br>
 Multi-target Optimization: Generates optimal routes to visit multiple locations efficiently
+
+## Environments
+
+ROS2 Humble <br>
+Ubuntu 22.04
