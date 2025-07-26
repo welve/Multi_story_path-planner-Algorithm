@@ -14,11 +14,8 @@ Ubuntu 22.04
 
 # How to use
 
-## Create workspace
 mkdir -p ~/ros2_ws/src <br>
 cd ~/ros2_ws/src
-
-## Clone the package
 git clone https://github.com/your-username/multi-story-pathplanner.git
 
 ## Install dependencies
