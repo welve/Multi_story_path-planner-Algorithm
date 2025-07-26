@@ -12,7 +12,7 @@ Multi-target Optimization: Generates optimal routes to visit multiple locations 
 ROS2 Humble <br>
 Ubuntu 22.04
 
-# How to use
+## How to use
 
 mkdir -p ~/ros2_ws/src <br>
 
