@@ -15,15 +15,7 @@ Ubuntu 22.04
 # How to use
 
 mkdir -p ~/ros2_ws/src <br>
-cd ~/ros2_ws/src
-git clone https://github.com/your-username/multi-story-pathplanner.git
-
-## Install dependencies
-cd ~/ros2_ws
-rosdep install --from-paths src --ignore-src -r -y
-
-## Build
-colcon build --packages-select multi_story_pathplanner
-
-## Source the workspace
-source install/setup.bash
+cd ~/ros2_ws/src<br>
+git clone https://github.com/welve/Multi_story_path-planner-Algorithm.git<br>
+colcon build --packages-select multi_story_pathplanner<br>
+source install/setup.bash<br>
