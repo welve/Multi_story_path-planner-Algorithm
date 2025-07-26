@@ -1,5 +1,7 @@
 # Multi_story_path-planner
 
+A ROS2-based global path planning package designed for efficient navigation to multiple target locations in multi-story building environments.
+
 ## Key Features
 
 Multi-story Support: Path planning across multiple building floors <br>
