@@ -19,3 +19,5 @@ cd ~/ros2_ws/src<br>
 git clone https://github.com/welve/Multi_story_path-planner-Algorithm.git<br>
 colcon build --packages-select multi_story_pathplanner<br>
 source install/setup.bash<br>
+
+ros2 run dijkstra box_input
