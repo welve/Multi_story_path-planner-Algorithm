@@ -25,3 +25,7 @@ colcon build --packages-select multi_story_pathplanner<br>
 source install/setup.bash<br>
 
 ros2 run dijkstra box_input
+
+## Example
+
+<img width="820" height="688" alt="n7" src="https://github.com/user-attachments/assets/7f0e0864-c33e-4876-99f2-dd42afbe0213" />
